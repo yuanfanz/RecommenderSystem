@@ -1,5 +1,4 @@
-#
-RecommenderSystem
+# RecommenderSystem
 
 It's an online movie recommender system based on Hadoop framework. Dataset comes from **Netflix**. This system will recommend similar movies based on user's previous preferences. It's an individual project.
 
