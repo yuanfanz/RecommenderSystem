@@ -50,3 +50,23 @@ Last but not the least, I built this recommender system demo just to demonstrate
 ## Detailed Algorithm Breakdown
 
 ![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-30%2014.46.06.jpg)
+
+![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/屏幕快照 2017-06-30 14.46.23.jpg)
+
+![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/屏幕快照 2017-06-30 14.46.32.jpg)
+
+![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/屏幕快照 2017-06-30 14.46.43.jpg)
+
+![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/屏幕快照 2017-06-30 14.46.48.jpg)
+
+![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/屏幕快照 2017-06-30 14.46.54.jpg)
+
+![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/屏幕快照 2017-06-30 14.47.26.jpg)
+
+![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/屏幕快照 2017-06-30 14.47.31.jpg)
+
+![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/屏幕快照 2017-06-30 14.47.35.jpg)
+
+![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/屏幕快照 2017-06-30 14.47.39.jpg)
+
+![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/屏幕快照 2017-06-30 14.47.44.jpg)
