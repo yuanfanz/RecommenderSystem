@@ -51,22 +51,22 @@ Last but not the least, I built this recommender system demo just to demonstrate
 
 ![image1](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-30%2014.46.06.jpg)
 
-![image1](RecommenderSystem/image/屏幕快照 2017-06-30 14.46.23.jpg)
+![image2](RecommenderSystem/image/屏幕快照 2017-06-30 14.46.23.jpg)
 
-![image1](RecommenderSystem/image/屏幕快照 2017-06-30 14.46.32.jpg)
+![image3](RecommenderSystem/image/屏幕快照 2017-06-30 14.46.32.jpg)
 
-![image1](RecommenderSystem/image/屏幕快照 2017-06-30 14.46.43.jpg)
+![image4](RecommenderSystem/image/屏幕快照 2017-06-30 14.46.43.jpg)
 
-![image1](RecommenderSystem/image/屏幕快照 2017-06-30 14.46.48.jpg)
+![image5](RecommenderSystem/image/屏幕快照 2017-06-30 14.46.48.jpg)
 
-![image1](RecommenderSystem/image/屏幕快照 2017-06-30 14.46.54.jpg)
+![image6](RecommenderSystem/image/屏幕快照 2017-06-30 14.46.54.jpg)
 
-![image1](RecommenderSystem/image/屏幕快照 2017-06-30 14.47.26.jpg)
+![image7](RecommenderSystem/image/屏幕快照 2017-06-30 14.47.26.jpg)
 
-![image1](RecommenderSystem/image/屏幕快照 2017-06-30 14.47.31.jpg)
+![image8](RecommenderSystem/image/屏幕快照 2017-06-30 14.47.31.jpg)
 
-![image1](RecommenderSystem/image/屏幕快照 2017-06-30 14.47.35.jpg)
+![image9](RecommenderSystem/image/屏幕快照 2017-06-30 14.47.35.jpg)
 
-![image1](RecommenderSystem/image/屏幕快照 2017-06-30 14.47.39.jpg)
+![image10](RecommenderSystem/image/屏幕快照 2017-06-30 14.47.39.jpg)
 
-![image1](RecommenderSystem/image/屏幕快照 2017-06-30 14.47.44.jpg)
+![image11](RecommenderSystem/image/屏幕快照 2017-06-30 14.47.44.jpg)
