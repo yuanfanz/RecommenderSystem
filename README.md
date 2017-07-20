@@ -69,4 +69,4 @@ Last but not the least, I built this recommender system demo just to demonstrate
 
 ![image10](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-30%2014.47.39.jpg)
 
-![image11](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-30 14.47.44.jpg)
+![image11](https://github.com/yuanfanz/RecommenderSystem/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202017-06-30%2014.47.44.jpg)
